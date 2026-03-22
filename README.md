@@ -1,4 +1,4 @@
-# Hi, I'm Mouna Bensmida 👋
+# Hi, I'm Mouna Bensmida 
 **Software Engineering Student | Backend & Database Enthusiast | Future Innovator**
 
 Welcome to my digital portfolio! I'm passionate about building robust software solutions, exploring new technologies, and writing clean, efficient code. 
@@ -15,7 +15,7 @@ I am currently seeking a dynamic internship opportunity where I can put my techn
 
 ---
 
-## 🛠️ Core Skills
+##  Core Skills
 
 ### 💻 Programming Languages & Frameworks
 * **Languages:** Java, Python, C++, C, JavaScript, .NET
@@ -52,7 +52,7 @@ I am currently seeking a dynamic internship opportunity where I can put my techn
 
 ---
 
-## 🚀 Featured Projects (Academic & Personal)
+##  Featured Projects (Academic & Personal)
 
 ### 🏥 Intelligent Cognitive Disease Assistant
 * **Tech Stack Used:** Java
@@ -87,8 +87,8 @@ I am currently seeking a dynamic internship opportunity where I can put my techn
 I am always open to discussing tech, collaborating on open-source projects, or exploring new internship opportunities. Feel free to reach out!
 
 * ✉️ **Email:** [mouna.bensmida@enicar.ucar.tn](mailto:mouna.bensmida@enicar.ucar.tn)
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](#) *(Replace with your URL)*
-* 🐙 **GitHub:** [github.com/your-username](#) *(Replace with your URL)*
+* 💼 **LinkedIn:** [[MOUNA BENSMIDA.com/in/your-profile](https://www.linkedin.com/in/mouna-bensmida-94bb41392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](#) *(Replace with your URL)*
+* 🐙 **GitHub:** [[github.com/your-username](https://github.com/mounabensmida)](#) *(Replace with your URL)*
 * 📱 **Phone:** (+216) 50 550 347
 
 ---
